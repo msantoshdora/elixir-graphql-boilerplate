@@ -99,5 +99,3 @@ server {
           include snippets/proxy-pass.conf;
   }
 }
-```
-initial commit
